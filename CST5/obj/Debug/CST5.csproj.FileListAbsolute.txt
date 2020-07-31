@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\CST5\CST5\bin\Debug\CST5.exe.config
+C:\Users\Lenovo\source\repos\CST5\CST5\bin\Debug\CST5.exe
+C:\Users\Lenovo\source\repos\CST5\CST5\bin\Debug\CST5.pdb
+C:\Users\Lenovo\source\repos\CST5\CST5\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\CST5\CST5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\CST5\CST5\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\CST5\CST5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\CST5\CST5\obj\Debug\CST5.CreateProductForm.resources
+C:\Users\Lenovo\source\repos\CST5\CST5\obj\Debug\CST5.Form1.resources
+C:\Users\Lenovo\source\repos\CST5\CST5\obj\Debug\CST5.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\CST5\CST5\obj\Debug\CST5.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\CST5\CST5\obj\Debug\CST5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CST5\CST5\obj\Debug\CST5.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\CST5\CST5\obj\Debug\CST5.exe
+C:\Users\Lenovo\source\repos\CST5\CST5\obj\Debug\CST5.pdb
+C:\Users\Lenovo\source\repos\CST5\CST5\obj\Debug\CST5.EditProductForm.resources
+C:\Users\Lenovo\source\repos\CST5\CST5\obj\Debug\CST5.csprojAssemblyReference.cache
